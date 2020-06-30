@@ -1,0 +1,15 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>17.png</filename>
+    <path>dent-PascalVOC-export/Annotations/17.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2800</width>
+        <height>1170</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>
